@@ -27,7 +27,7 @@ pip install streamlit pandas
 Feel free to explore and experiment with different input values to see how they affect the predicted probabilities.
 
 ### Result Display
-![Result Display](assets/home.png)
+![Result Display](code/assets/home.png)
 
 ## Model Information
 
