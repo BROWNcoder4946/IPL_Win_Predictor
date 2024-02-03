@@ -9,26 +9,6 @@ Make sure to install the required libraries by running:
 pip install streamlit pandas
 ```
 
-## Setup
-1. Clone the repository:
-
-   ```bash
-   git clone [repository_url]
-   cd IPL_WinPredictor_ML_Code
-   ```
-
-2. Install the required Python libraries:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Streamlit app:
-
-   ```bash
-   streamlit run your_script_name.py
-   ```
-
 ## Input Parameters
 
 - **Batting Team:** Select the batting team from the available options.
@@ -47,7 +27,7 @@ pip install streamlit pandas
 Feel free to explore and experiment with different input values to see how they affect the predicted probabilities.
 
 ### Result Display
-![Result Display](Lab/102103546_AdityaVashishta/IPL_WinPredictor_ML_Code/assets/home.png)
+![Result Display](/Users/aditya/Desktop/5th_Sem/ML/Lab/IPL_Win_predictor/code/assets/home.png)
 
 ## Model Information
 
